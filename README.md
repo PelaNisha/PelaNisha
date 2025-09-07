@@ -1,32 +1,23 @@
 
-## Hey! its Nisha here
+## Hello! its Pela here
 
 
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm11NXg3NGcxYjJ5OW16ZHZ3NGoxNGZtdW0wMmllM2J5bnoyZGEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hicydpti7wG3vA8Zr4/giphy.gif)
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21zNjBjb2podmt4aHh3NDdzYTRxeTJscWVscDNhZmdxeHN0enB4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kanka5wfr3BxGpLRQu/giphy.gif)
 
 
 
 
 ## 🚀 About Me
-- I'm a Python developer with tty-bitty knowledge in C++ and C
-- Got into Web-development with HTML, CSS and Django (yet to learn js )
-- Good knowledge of data extraction using python ```request, BS4, Scrapy```
-- Learning MySQL-(learned basics till now 😅)
-- Would be glad to be DataEngineer in future 😌
+- I'm a Python developer by passion and a Data Engineer by profession 
+- Yes, I did become DataEngineer like I had manisfested.
 
 ## More things about me
-👩‍💻 I'm currently working on Data Data stuff
+👩‍💻 I'm currently working at being productive and making life more fulfullling
 
-🧠 I'm currently learning Database/data-extraction
+💬 Ask me about python and books
 
-👯‍♀️ I'm looking to collaborate on cool projects if you've got some idea
-
-🤔 I'm looking for help with getting my life on track lol
-
-💬 Ask me about webScraping and Python
-
-😄 Pronouns: Positive, happy 24/7 
+😄 Positive, happy 24/7 
 
 ⚡️ Fun fact: Have a lot of patience 
 
